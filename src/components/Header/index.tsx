@@ -8,7 +8,7 @@ export function Header() {
         <img src="/images/logo.png" alt="Logo ivasko" />
         <div className={styles.menu}>
           <Link href={"/"}>Início</Link>
-          <Link href={"/story"}>Quem Somos</Link>
+          <Link href={"/about"}>Quem Somos</Link>
           <Link href={"/stores"}>Lojas</Link>
           <Link href={"/books"}>Livro de Receitas</Link>
           <span>Delivery</span>

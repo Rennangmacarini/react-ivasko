@@ -2,11 +2,11 @@ import { Header } from "../components/Header";
 import { Store } from "../components/Stores";
 
 
-export default function Stores(){
-    return(
+export default function Stores() {
+    return (
         <>
-        <Header/>
-        <Store/> 
+            <Header />
+            <Store />
         </>
     )
 }
